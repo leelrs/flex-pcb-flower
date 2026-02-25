@@ -1,5 +1,4 @@
 # flex-pcb-flower-sculpture
-45 min make instead of studying for comm systems :,)
 
 5 flexible PCB petals with 2 LEDs each, 
 
