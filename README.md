@@ -10,4 +10,5 @@ and an LM555 timer base -> 2n7000 NMOS to power the petals + give a nice pulsing
 
 The wires make up the stem! Added in a middle dead pad for petal positioning/stability.
 
-Uses a min of 3V (2AA) for stable operation. I haven't tested it much with drained batteries.
+Uses a min of 3V (2AA) for stable operation. updating when jlcpcb runs me the goods
+
